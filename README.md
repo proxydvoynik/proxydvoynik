@@ -60,14 +60,6 @@ $ cat active_projects.json
   <img src="https://img.shields.io/badge/Citadel--Net-CSS3-00FF66?style=for-the-badge&logo=css3&logoColor=black" />
 </p>
 
----
-
-### 📊 DIAGNOSTICS & TELEMETRY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proxydvoynik&show_icons=true&bg_color=0b0f19&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=00FF66&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxydvoynik&layout=compact&bg_color=0b0f19&title_color=00FF66&text_color=c9d1d9&icon_color=00FF66&border_color=00FF66&hide_border=false" width="48%" />
-</p>
 
 ---
 
@@ -80,6 +72,11 @@ $ cat active_projects.json
 </p>
 
 ---
+
+<p align="center">
+  <sub><i>"Sometimes science is more art than science, Morty. A lot of people don't get that."</i></sub>
+</p>
+
 
 <p align="center">
   <sub><i>"Sometimes science is more art than science, Morty. A lot of people don't get that."</i></sub>
