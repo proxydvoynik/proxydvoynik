@@ -76,8 +76,3 @@ $ cat active_projects.json
 <p align="center">
   <sub><i>"Sometimes science is more art than science, Morty. A lot of people don't get that."</i></sub>
 </p>
-
-
-<p align="center">
-  <sub><i>"Sometimes science is more art than science, Morty. A lot of people don't get that."</i></sub>
-</p>
