@@ -22,9 +22,6 @@
 
 ```bash
 $ cat active_projects.json
-```
-
-```json
 {
   "CivicFix": {
     "module_type": "AI-Powered Hyperlocal Infrastructure Reporter",
