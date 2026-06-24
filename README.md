@@ -52,12 +52,21 @@ $ cat active_projects.json
 ### 🛠️ COGNITIVE INTEGRATIONS & TOOLS
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Citadel--Net-C-00FF66?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Citadel--Net-Java-00FF66?style=for-the-badge&logo=oracle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Citadel--Net-Python-00FF66?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Citadel--Net-JavaScript-00FF66?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Citadel--Net-GameMaker-00FF66?style=for-the-badge&logo=gamemaker&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Node.js-00FF66?style=for-the-badge&logo=nodedotjs&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Git-00FF66?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/Citadel--Net-HTML5-00FF66?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/Citadel--Net-CSS3-00FF66?style=for-the-badge&logo=css3&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Citadel--Net-NumPy-00FF66?style=for-the-badge&logo=numpy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Citadel--Net-Matplotlib-00FF66?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Citadel--Net-Seaborn-00FF66?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Citadel--Net-Node.js-00FF66?style=for-the-badge&logo=nodedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Citadel--Net-Git-00FF66?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 
