@@ -1,84 +1,182 @@
-<img src="portal_banner.png" width="100%" alt="Citadel Terminal Banner">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&background=00000000&width=480&lines=Connecting+to+Citadel+Node+C-137...;Loading+database+logs...;Access+Granted%3A+proxydvoynik;Status%3A+Designing+next-gen+systems...">
-</p>
-Could you make this better
+<div align="center">
+
+# 二世アストロン
+
+## **Nisei Asutoron**
+
+> *"The path is still being walked."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1200&color=8B0000&center=true&vCenter=true&width=700&lines=Harshith+Saveesh;Creative+Developer;Future+Full+Stack+Engineer;Documenting+the+Journey+Towards+Mastery" />
+
+</div>
+
 ---
 
-### 💻 SYSTEM METRICS DECRYPT
+# 「About」
 
-```yaml
-[NODE]: proxydvoynik // Harshith Saveesh
-[COORDINATES]: Dimension C-137 // Earth
-[STATUS]: "Just starting out with coding!"
-[LOCATION]: India (UTC +05:30)
-[TRANSMISSION]: Secure Terminal Uplink Established
+I'm **Harshith Saveesh**, a second-year B.Tech Computer Science student at **MIT Manipal**.
+
+I enjoy building software that blends creativity, engineering, and storytelling. My goal is to become a **Full Stack Software Engineer**, with a strong backend foundation while crafting polished user experiences.
+
+Outside programming you'll usually find me exploring anime, Japanese culture, photography, games, and experimenting with interface design.
+
+---
+
+# 「Current Chapter」
+
+```text
+Education
+──────────────
+MIT Manipal
+B.Tech Computer Science
+Second Year
+
+Current Goal
+──────────────
+Software Development Engineer
+Full Stack Engineer
+
+Current Focus
+──────────────
+• Data Structures & Algorithms
+• Java Backend
+• React
+• Full Stack Development
 ```
 
 ---
 
-### 📡 ACTIVE CORE MODULES
+# 「Current Arsenal」
 
-```bash
-$ cat active_projects.json
-{
-  "CivicFix": {
-    "module_type": "AI-Powered Hyperlocal Infrastructure Reporter",
-    "description": "Enables citizens to identify, verify, track, and resolve community problems.",
-    "tech_stack": ["JavaScript", "HTML", "CSS"],
-    "node_uplink": "https://github.com/proxydvoynik/CivicFix"
-  },
-  "Rank_Game": {
-    "module_type": "Daily Interactive Reddit Game Engine",
-    "description": "Reddit Devvit sorting game. Guess the correct order of 5 items by category.",
-    "tech_stack": ["Game Maker Language", "Devvit"],
-    "node_uplink": "https://github.com/proxydvoynik/Rank_Game"
-  },
-  "studenthub_harshith": {
-    "module_type": "Personal Academic Dashboard",
-    "description": "A centralized command centre for managing student academic and daily tasks.",
-    "tech_stack": ["HTML", "CSS", "JavaScript"],
-    "node_uplink": "https://github.com/proxydvoynik/studenthub_harshith"
-  }
-}
+## Languages
+
+| Technology | Status |
+|------------|--------|
+| ☗ Java | Primary Craft |
+| ☗ Python | Building Confidence |
+| ☗ JavaScript | Building Confidence |
+| ☗ C | Building Confidence |
+
+## Frontend
+
+| Technology | Status |
+|------------|--------|
+| React | Building Confidence |
+| HTML5 | Comfortable |
+| CSS3 | Comfortable |
+
+## Scientific Computing
+
+- NumPy
+- Matplotlib
+
+---
+
+# 「The Road Ahead」
+
+Currently forging:
+
+- Data Structures & Algorithms
+- Node.js
+- Express.js
+- MongoDB
+
+
+---
+
+# 「Featured Works」
+
+## 🎮 Rank Game
+
+> Guess the correct order of five items by category inside Reddit.
+>
+> **Stack:** Devvit • GameMaker • JavaScript
+
+---
+
+## 🏙 CivicFix
+
+> AI-powered hyperlocal civic issue reporting platform built during the Vibe2Ship Hackathon.
+
+**Focus**
+- AI
+- Civic Technology
+- Full Stack
+- UX
+
+---
+
+# 「Interests」
+
+```text
+Anime
+Japanese Culture
+Photography
+Games
+Backend Development
+UI Motion Design
+Open Source
 ```
 
 ---
 
-### 🛠️ COGNITIVE INTEGRATIONS & TOOLS
+# 「GitHub Stats」
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Citadel--Net-C-00FF66?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Java-00FF66?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Python-00FF66?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-JavaScript-00FF66?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-GameMaker-00FF66?style=for-the-badge&logo=gamemaker&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-HTML5-00FF66?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-CSS3-00FF66?style=for-the-badge&logo=css3&logoColor=black" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Citadel--Net-NumPy-00FF66?style=for-the-badge&logo=numpy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Matplotlib-00FF66?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Seaborn-00FF66?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Node.js-00FF66?style=for-the-badge&logo=nodedotjs&logoColor=black" />
-  <img src="https://img.shields.io/badge/Citadel--Net-Git-00FF66?style=for-the-badge&logo=git&logoColor=black" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
+
+</div>
 
 ---
 
-### 🌐 SECURE UPLINK
+# 「Contribution Graph」
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshithsaveesh/">
-    <img src="https://img.shields.io/badge/Secure_Uplink-LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <sub><i>"Sometimes science is more art than science, Morty. A lot of people don't get that."</i></sub>
-</p>
+# 「Currently Listening」
+
+> 🎧 Usually coding with ambient soundtracks, lo-fi, orchestral music, or anime OSTs.
+
+---
+
+# 「Philosophy」
+
+> **There is no final version.**
+>
+> **Only iterations.**
+
+---
+
+# 「Walk Beside Me」
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/proxydvoynik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshithsaveesh/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_literally._.astro_)
+
+</div>
+
+---
+
+<div align="center">
+
+### 二世アストロン
+
+### NISEI ASUTORON
+
+*"The journey continues."*
+
+</div>
