@@ -89,23 +89,36 @@ Currently forging:
 
 ## 🎮 Rank Game
 
-> Guess the correct order of five items by category inside Reddit.
->
-> **Stack:** Devvit • GameMaker • JavaScript
+> A daily interactive ranking game designed to turn passive Reddit scrolling into active community debates.
+> 
+> **Stack:** Reddit Devvit • GameMaker • HTML5 / JavaScript
+
+### 🔬 The Fascination
+Why are Redditors so obsessed with tier lists and ranking debates? I wanted to see if we could harness the natural human urge to sort and argue into a lightweight, daily interactive game that turns passive scrolling into active, debate-driven comment section engagement.
+
+### 🛠️ The Build
+A GameMaker-powered puzzle experience exported to HTML5 and served directly inside Reddit feeds using Devvit Web. We built robust touchscreen drag-and-drop mechanics, slot-swapping logic, and a clean, responsive UI that loads and plays smoothly within the constrained iframe of Reddit's mobile and desktop feeds.
+
+### 🧠 The Lesson
+Gamifying debate is the ultimate engagement driver. The technical challenge of GML mouse snapping and state tracking was trivial compared to the design challenge of choosing categories that are just controversial or interesting enough to make players head straight to the comments to discuss and defend their answers.
 
 ---
 
-## 🏙 CivicFix
+## 🏙️ CivicFix
 
-> AI-powered hyperlocal civic issue reporting platform built during the Vibe2Ship Hackathon.
+> An AI-driven hyperlocal command center and gamified reputation platform that empowers citizens of Thalassery Town to report, verify, and resolve municipal infrastructure issues in real-time.
+
+### 🌟 Core Capabilities
+- **Autonomous Agentic Triage**: Real-time image category classification, automated duplication merge checks ($d \le 250\text{m}$), and closed-loop visual audits of maintenance repairs using Gemini 2.5 Flash.
+- **Hierarchical Geocoding Engine**: Point-in-Polygon ray-casting and Haversine centroid fallback pipelines mapping clicked map coordinates to Thalassery's 53 distinct municipal wards.
+- **Gamified Warden Progression**: An anonymous authorization system that tracks community contributions, awarding Karma Points (KP) to dynamically promote contributors through five ranks (Cadet Warden $\rightarrow$ Thalassery Warden).
+- **High-Density Command UX**: A premium glassmorphic interface featuring live meteorological graphs, environmental health spider charts, interactive alert workspaces, and a live rolling terminal log of the background AI agent's decisions.
 
 **Focus**
-- AI
-- Civic Technology
-- Full Stack
-- UX
-
----
+- Multimodal AI Agents
+- Geo-Spatial Geocoding
+- Gamification & Community Reputation
+- Command Center UI/UX
 
 # 「Interests」
 
@@ -118,30 +131,6 @@ Backend Development
 UI Motion Design
 Open Source
 ```
-
----
-
-# 「GitHub Stats」
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
----
-
-# 「Contribution Graph」
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
-
-</div>
 
 ---
 
